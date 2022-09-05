@@ -16,6 +16,7 @@ public class PruebaTest {
 
     @BeforeTest
     public void abrirDriver(){
+        //borrar
         //Encontrar archivo .exe de chromedriver
         System.setProperty("webdriver.chrome.driver", "src\\main\\resources\\chromedriver.exe");
 
